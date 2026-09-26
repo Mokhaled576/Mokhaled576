@@ -59,6 +59,11 @@ I am particularly interested in developing reproducible computational approaches
 
 **Experimental:** RT-qPCR · Western blotting · cardiomyocyte isolation · cell culture · molecular pharmacology
 
+## Professional & Academic Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/mostafa-khaled00)
+- [Google Scholar](https://scholar.google.com/citations?user=f3SAqccAAAAJ&hl=en)
+
 ## Contact
 
 University of Alberta  
