@@ -63,6 +63,7 @@ I am particularly interested in developing reproducible computational approaches
 
 - [LinkedIn](https://www.linkedin.com/in/mostafa-khaled00)
 - [Google Scholar](https://scholar.google.com/citations?user=f3SAqccAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0003-0252-5065)
 
 ## Contact
 
